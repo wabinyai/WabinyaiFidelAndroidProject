@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WorldHeritage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="in_washington_string">I\'m at the Washington Monument</string>
+    <string name="in_mexico_string">Estoy en México</string>
+    <string name="MJesuit_Missions_of_the_Guaranis">San Ignacio Mini, Santa Ana, Nuestra Senora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)</string>
+    <string name="Head_Smashed_In_Buffalo_Jump">In south-west Alberta, the remains of marked trails and an aboriginal camp, and a tumulus where vast quantities of buffalo (American Bison) skeletons can still be found, are evidence of a custom practised by aboriginal peoples of the North American plains for nearly 6,000 years.Canada </string>
+    <string name="Royal_Exhibition_Building_and_Carlton_Gardens">were designed for the great international exhibitions of 1880 and 1888 in Melbourne</string>
+    <string name="Paphos ">Paphos has been inhabited since the Neolithic period</string>
+    <string name="Tsodilo">With one of the highest concentrations of rock art in the world, Tsodilo has been called the Louvre of the Desert. \Cidade VelhaOver 4,500 paintings are preserved in an area of only 10 km2 of the Kalahari Desert</string>
+    <string name="Cidade_Velha">Historic Centre of Ribeira Grande.The town of Ribeira Grande, renamed Cidade Velha in the late 18th century, was the first European colonial outpost in the tropics</string>
+ 
+
+
+
+</resources>
